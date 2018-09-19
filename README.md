@@ -9,3 +9,8 @@ I made this simple game because I was bored. :zzz:
 
  :page_facing_up: Language : `C#`
 
+ :eyes: **TO DO LIST**
+   - cute UI
+   - clear all data
+   - sounds
+   - add mini games?
